@@ -1,4 +1,4 @@
-/*@author: Ekrit Kapoor and Mahmood.
+/*@author: Ekrit Kapoor.
  * @date: May 21,2024
  * @version: 1.0.0
  * Program Description: It is a Ben 10 story line game.
